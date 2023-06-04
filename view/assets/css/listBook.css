@@ -1,0 +1,15 @@
+.legend{
+  padding: 10px;
+  border-top: 2px solid rgb(218, 217, 217);
+  background-color: rgb(236, 236, 236);
+}
+.legend p{
+  font-weight: bold;
+}
+.main_box{
+  box-shadow:  0 0 1em rgb(0 0 0 / .3);
+  width:200px;
+  height:250px;
+  margin:20px;
+  display: inline-block;
+}
